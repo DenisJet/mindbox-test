@@ -1,0 +1,16 @@
+:root {
+  --primaryColor: #DCDCDC;
+  --secondaryColor: #808080;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  background-color: var(--primaryColor);
+}
+
+
+body {
+  margin: 0;
+  padding: 10px;
+}
+
+* {
+  box-sizing: border-box;
+}
